@@ -81,4 +81,6 @@ As a Frontend Developer, I am passionate about creating high-quality web applica
 # 📊 <b>My GitHub Stats</b>
 
 <a
-href="http://www.github.com/amirk1998"><img src="https://github-readme-stats.vercel.app/api?username=amirk1998&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="amirk1998's GitHub stats" /></a><a href="https://github.com/amirk1998" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirk1998&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+href="http://www.github.com/amirk1998"><img src="https://github-readme-stats.vercel.app/api?username=amirk1998&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="amirk1998's GitHub stats" /></a>
+
+<a href="https://github.com/amirk1998" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirk1998&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
