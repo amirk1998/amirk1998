@@ -1,6 +1,6 @@
 # Hi ! I'm Amir Hossein Kaveh ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&width=435&lines=I'm+Amir+Hossein;I'm+Front-End+Developer+(React+Developer)>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Amir+Hossein.;I'm+DevOps+Engineer.)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=amirk1998&icon=0&color=1)](https://visitcount.itsvg.in)
 
