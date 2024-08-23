@@ -1,86 +1,102 @@
-# Hi ! I'm Amir Hossein Kaveh ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# 👨‍💻 DevOps Engineer | Infrastructure Architect | Automation Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Amir+Hossein.;I'm+DevOps+Engineer.)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=amirk1998&color=brightgreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amirk1998/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/amirk1998dev)
 
-[![](https://visitcount.itsvg.in/api?id=amirk1998&icon=0&color=1)](https://visitcount.itsvg.in)
+## 🚀 About Me
 
-## Front-End Developer (React Developer)
+Passionate DevOps Engineer with expertise in containerization, orchestration, and cloud technologies. I specialize in building robust, scalable, and secure infrastructure solutions using cutting-edge tools and practices. My mission is to streamline processes, automate workflows, and empower teams to deliver high-quality software faster and more efficiently.
 
-As a Frontend Developer, I am passionate about creating high-quality web applications that provide a seamless user experience. I am proficient in modern front-end technologies. I am committed to delivering responsive and accessible designs that meet the needs of end-users. I am also well-versed in agile development methodologies and have experience collaborating with team members to achieve project goals.
+## 🛠 Technical Skills
 
-- 🌍  I'm based in Shiraz ,Iran
-- ✉️  You can contact me at [amirk1998.pv@gmail.com](mailto:amirk1998.pv@gmail.com)
-- 🧠  I'm learning TypeScript
-- 🤝  I'm open to collaborating on React Projects
-  <br>
-  <br>
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-Intermediate-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Expert-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# 💻 Tech Stack
+### DevOps Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Expert-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-Expert-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-Expert-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Expert-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-Proficient-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Expert-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Expert-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Expert-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Intermediate-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Expert-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Expert-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-Intermediate-FF0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Proficient-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Master-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-Advanced-000000?style=for-the-badge&logo=vault&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-Expert-24A1C1?style=for-the-badge&logo=traefik&logoColor=white)
 
-## Languages
+## 🧠 Soft Skills
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./assets/icons/html5-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="./assets/icons/css3-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/icons/javascript-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/typescript-color.svg" width="36" height="36" alt="HTML5" /></a>
-<br>
-<br>
+- 🔍 Problem-solving: Adept at analyzing complex issues and developing innovative solutions
+- 🤝 Collaboration: Skilled in working effectively with cross-functional teams
+- 📈 Continuous Learning: Passionate about staying up-to-date with the latest DevOps trends and technologies
+- 🗣 Communication: Excellent verbal and written communication skills for technical and non-technical audiences
+- 🚀 Adaptability: Quick to learn and adapt to new technologies and methodologies
+- 🎯 Project Management: Experienced in managing multiple projects and priorities simultaneously
+- 🤔 Critical Thinking: Strong analytical skills for making informed decisions and optimizing processes
+- 🔄 Change Management: Proficient in implementing and managing organizational changes effectively
 
-## Frameworks, Platforms & Libraries
+## 💼 Professional Summary
 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="./assets/icons/react-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/nextdotjs-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"><img src="./assets/icons/reactrouter-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/redux-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://redux-saga.js.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/reduxsaga-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/tailwindcss-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/mui-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/bootstrap-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/chakraui-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://postcss.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/postcss-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/styledcomponents-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/git-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/npm-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/yarn-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/webpack-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="./assets/icons/babel-color.svg" width="36" height="36" alt="HTML5" /></a>
-<br>
-<br>
+Experienced DevOps Engineer with a strong background in automating, optimizing, and maintaining scalable infrastructure and deployment pipelines. Proficient in containerization with Docker, orchestration with Kubernetes, and Infrastructure as Code using Terraform. Skilled in implementing CI/CD pipelines with GitLab CI and GitHub Actions. Experienced in cloud platforms like AWS and Azure, with expertise in monitoring solutions using Prometheus and Grafana. Committed to implementing DevOps best practices to improve development efficiency and system reliability.
 
-## Hosting
+## 🌟 Key Achievements
 
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/netlify-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/vercel-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/firebase-color.svg" width="36" height="36" alt="HTML5" /></a>
-<br>
-<br>
+- Designed and implemented a fully automated CI/CD pipeline using GitLab CI and Kubernetes, reducing deployment time by 70% and improving overall system reliability
+- Developed a comprehensive monitoring and alerting solution using Prometheus, Grafana, and Zabbix, resulting in a 50% reduction in incident response time and improved system visibility
+- Created custom Terraform modules for standardized and repeatable infrastructure provisioning across AWS and Azure, enhancing consistency and reducing manual configuration errors by 90%
+- Led the adoption of GitOps practices using Helm charts and ArgoCD, resulting in improved collaboration between development and operations teams and a 40% increase in deployment frequency
+- Implemented HashiCorp Vault for secrets management, significantly enhancing the security posture of the organization's DevOps processes
 
-## Other Tools
+## 📊 GitHub Stats
 
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="./assets/icons/mongodb-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="./assets/icons/postman-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="./assets/icons/figma-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="./assets/icons/linux-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://fedoraproject.org" target="_blank" rel="noreferrer"><img src="./assets/icons/fedora-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://trello.com" target="_blank" rel="noreferrer"><img src="./assets/icons/trello-color.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://notion.so" target="_blank" rel="noreferrer"><img src="./assets/icons/notion-color.svg" width="36" height="36" alt="HTML5" /></a>
-<br>
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirk1998&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-# 📫Socials
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirk1998&theme=radical" alt="GitHub Streak" />
+</p>
 
-<p align="left">               
-  <a href="https://www.dev.to/amirk1998" target="_blank" rel="noreferrer"><img src="./assets/icons/devdotto-color.svg" width="32" height="32" /></a>      
-  <a href="https://www.github.com/amirk1998" target="_blank" rel="noreferrer"><img src="./assets/icons/github-color.svg" width="32" height="32" /></a>              
-  <a href="https://amirk1998dev.hashnode.dev" target="_blank" rel="noreferrer"><img src="./assets/icons/hashnode-color.svg" width="32" height="32" /></a>         
- <a href="https://www.linkedin.com/in/amirk1998" target="_blank" rel="noreferrer"><img src="./assets/icons/linkedin-color.svg" width="32" height="32" /></a>                  
-<a href="https://www.twitter.com/amirk1998" target="_blank" rel="noreferrer"><img src="./assets/icons/twitter-color.svg" width="32" height="32" /></a></p>
-<br>
-<br>
 
-# 📊 <b>My GitHub Stats</b>
+## 📫 How to Reach Me
 
-<a
-href="http://www.github.com/amirk1998"><img src="https://github-readme-stats.vercel.app/api?username=amirk1998&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="amirk1998's GitHub stats" /></a>
+- 📧 Email: amirkaveh1377@outlook.com
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/amirk1998/)
+- 🐦 Twitter: [@yourusername](https://twitter.com/amirk1998dev)
 
-<a href="https://github.com/amirk1998" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirk1998&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+## 🤝 Open for Collaboration
+
+I'm always excited to collaborate on interesting DevOps and cloud infrastructure projects. If you have an idea or need help with implementation, especially in areas like Kubernetes, CI/CD pipelines, or infrastructure automation, feel free to reach out!
+
+## 📈 Continuous Learning
+
+Always exploring new technologies and methodologies to enhance DevOps practices. Currently focusing on:
+
+- Advanced Kubernetes operators and custom controllers
+- Serverless architectures and FaaS (Function as a Service)
+- AI/ML integration in DevOps workflows
+- FinOps principles for optimizing cloud costs
+- Advanced security practices in DevSecOps
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+💡 "In the world of DevOps, automation is key, but understanding the systems you're automating is crucial."
