@@ -74,8 +74,8 @@ Experienced DevOps Engineer with a strong background in automating, optimizing, 
 ## 📫 How to Reach Me
 
 - 📧 Email: amirkaveh1377@outlook.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/amirk1998/)
-- 🐦 Twitter: [@yourusername](https://twitter.com/amirk1998dev)
+- 💼 LinkedIn: [amirk1998](https://www.linkedin.com/in/amirk1998/)
+- 🐦 Twitter: [@amirk1998dev](https://twitter.com/amirk1998dev)
 
 ## 🤝 Open for Collaboration
 
